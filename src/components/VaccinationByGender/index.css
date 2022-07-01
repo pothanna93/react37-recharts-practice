@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.vaccine-by-gender-container {
+  background-color: #1c1c2b;
+  padding: 20px;
+  margin-bottom: 10px;
+  background-size: cover;
+}
+.by-gender-heading {
+  color: #6c757d;
+  font-size: 26px;
+  font-family: 'roboto';
+  padding-bottom: 10px;
+}
